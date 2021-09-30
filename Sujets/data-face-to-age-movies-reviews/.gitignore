@@ -1,0 +1,5 @@
+**.csv
+.ipynb_checkpoints/
+data/*.pickle
+data/images/*.pickle
+data/text/*.pickle
